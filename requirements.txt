@@ -1,0 +1,10 @@
+fastapi[standard]
+sqlalchemy
+uvicorn
+psycopg2-binary
+asyncpg
+pydantic
+pydantic-settings
+alembic
+pwdlib[argon2]
+pyjwt
